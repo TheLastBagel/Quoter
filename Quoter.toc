@@ -1,0 +1,6 @@
+## Interface: 11305
+## Title: Quoter
+## Author: Bagel
+## Notes: Responds to !quote with a quote
+## SavedVariables: QuoterDB
+Quoter.lua

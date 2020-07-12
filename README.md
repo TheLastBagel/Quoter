@@ -3,6 +3,7 @@ A WoW Addon
 
 # Setup
 To Setup the addon go to: Interface Options -> Addons -> Quoter -> New Quote
+This will initialize the addon for you with two default quotes
 
 # Commands
 /qadd \<your quote here\> - adds the quote to the list
